@@ -1,5 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=0DE419&width=520&height=80&lines=%3CHello+World!%3E;%3CI%27m+Mandani%3E;%3CA+Web.Dev%3E;%3C%2FLet%27s+Create%3E" alt="Typing SVG" align="middle"></a>
-<img src="https://c.tenor.com/bhbciND-xRAAAAAd/tenor.gif" alt="Matrix rain" width="100%" align="middle">
+<img src="https://c.tenor.com/bhbciND-xRAAAAAd/tenor.gif" alt="Matrix rain" width="450" align="middle">
+
 ---
 
 # 💫 About Me:
